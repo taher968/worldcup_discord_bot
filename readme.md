@@ -3,4 +3,4 @@
 
 ## Commands
 
-`!maches` - Displays the games happening in the day
+`!matches` - Displays the games happening in the day
